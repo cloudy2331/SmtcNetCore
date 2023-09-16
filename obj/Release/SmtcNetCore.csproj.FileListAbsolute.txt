@@ -1,0 +1,15 @@
+D:\net\SmtcCore\SmtcNetCore\bin\Release\SmtcNetCore.exe.config
+D:\net\SmtcCore\SmtcNetCore\bin\Release\SmtcNetCore.exe
+D:\net\SmtcCore\SmtcNetCore\bin\Release\SmtcNetCore.pdb
+D:\net\SmtcCore\SmtcNetCore\bin\Release\WindowsMediaController.dll
+D:\net\SmtcCore\SmtcNetCore\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\net\SmtcCore\SmtcNetCore\bin\Release\Serilog.dll
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.csproj.AssemblyReference.cache
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.csproj.SuggestedBindingRedirects.cache
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.csproj.CoreCompileInputs.cache
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.csproj.CopyComplete
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.exe
+D:\net\SmtcCore\SmtcNetCore\obj\Release\SmtcNetCore.pdb
+D:\net\SmtcCore\SmtcNetCore\bin\Release\DotImaging.BitmapSourceInterop.dll
+D:\net\SmtcCore\SmtcNetCore\bin\Release\DotImaging.GenericImage.dll
+D:\net\SmtcCore\SmtcNetCore\bin\Release\DotImaging.Primitives2D.dll

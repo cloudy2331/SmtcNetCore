@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQIx6GQa/p3ahQAuhpCLfoL6tk4kmxQ1NKbgb9UGbZEDy/F6GPEPgWztYtapbHPTSvux7vIaO+BfTMXzB4H0rg==",
+  "success": true,
+  "projectFilePath": "D:\\net\\SmtcCore\\SmtcNetCore\\SmtcNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cxy68\\.nuget\\packages\\dotimaging.bitmapsourceinterop\\4.8.3\\dotimaging.bitmapsourceinterop.4.8.3.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\dotimaging.genericimage\\4.8.3\\dotimaging.genericimage.4.8.3.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\dotimaging.primitives2d\\4.8.3\\dotimaging.primitives2d.4.8.3.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\dubya.windowsmediacontroller\\2.5.2\\dubya.windowsmediacontroller.2.5.2.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.17763.1000\\microsoft.windows.sdk.contracts.10.0.17763.1000.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\cxy68\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
