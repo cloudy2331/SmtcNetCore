@@ -7,6 +7,7 @@ using WindowsMediaController;
 using Windows.Storage.Streams;
 using System.Windows.Media.Imaging;
 using System.IO;
+using System.Text;
 
 namespace Sample.CMD
 {
@@ -92,7 +93,10 @@ namespace Sample.CMD
             {
                 image += i;
             }*/
-            string outputs = $@"OnAnyMediaPropertyChanged,{sender.Id},{args.Title},{(string.IsNullOrEmpty(args.Artist) ? "" : $"{args.Artist}")},{image.Trim()}";
+            //string outputs = $@"OnAnyMediaPropertyChanged,{sender.Id},{args.Title},{(string.IsNullOrEmpty(args.Artist) ? "" : $"{args.Artist}")},{image.Trim()}";
+            /*var blob = new BitmapMetadataBlob(fileBytes);
+            var blobUrl = Convert.ToString(blob);*/
+            string outputs = $@"OnAnyMediaPropertyChanged,{sender.Id},{args.Title.Replace(',', ' ')},{(string.IsNullOrEmpty(args.Artist) ? "" : $"{args.Artist.Replace(',', ' ')}")},{image}=";
             Console.Write(outputs);
             /*SmtcReturn smtcReturn = new SmtcReturn();
             smtcReturn.Id = sender.Id;
